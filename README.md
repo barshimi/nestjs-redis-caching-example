@@ -1,6 +1,6 @@
 # nestjs-redis-caching-example
 
-> Handle with Redis caching on Nestjs
+> Nestjs Redis Example
 
 ## Installation
 
